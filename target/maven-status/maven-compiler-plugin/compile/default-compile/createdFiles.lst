@@ -1,0 +1,8 @@
+messenger\chatServer\authentication\AuthenticationService.class
+messenger\chatServer\authentication\DBAuthenticationService.class
+messenger\chatServer\DbConnector.class
+messenger\chatServer\handler\ClientHandler.class
+messenger\chatServer\models\User.class
+messenger\chatServer\ServerApp.class
+messenger\chatServer\authentication\BaseAuthenticationService.class
+messenger\chatServer\MyServer.class
